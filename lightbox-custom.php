@@ -18,7 +18,7 @@ function custom_lightbox_shortcode($atts) {
 					'iframe-url'	=> null,
 					'iframe-width'	=> '600',
 					'iframe-height'	=> '450',
-					'image-url'		=> '/wp-content/uploads/2018/09/Generic-profile-pic.gif',
+					'image-url'	=> null,
 					'image-width'	=> '300',
 					'image-height'	=> '300',
 				),
